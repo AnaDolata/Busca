@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1668555384 source:c:\users\anado\documents\codeblocks\busca_aula04\t_time.c
+	"t_time.h"
+	<stdlib.h>
+	<string.h>
+
+1668555256 c:\users\anado\documents\codeblocks\busca_aula04\t_time.h
+
+1668555429 source:c:\users\anado\documents\codeblocks\busca_aula04\t_timetable.c
+	"t_timetable.h"
+	<malloc.h>
+
+1668555233 c:\users\anado\documents\codeblocks\busca_aula04\t_timetable.h
+	"t_time.h"
+
